@@ -14,8 +14,6 @@ data%>%
   write.csv("../data/452000.csv")
 
 
-š
-
 file.remove("../data/temp")
 file.remove("../data/monthly-2023.json")
 file.remove("../data/monthly-2023.csv")
