@@ -9,30 +9,30 @@
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/1_histogram.png)
 
-Išvados:
+Išvados: Didžioji dalis darbuotojų vidutiniškai uždirba 1000-1200 Eur.
 
 ### 2.2 Užduotis
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/2_dynamic_chart.png)
 
-Išvados:
+Išvados: UAB LITHUANIA DEFENSE SERVICES darbo užmokestis ženkliai didesnis už likusias bendroves.
 
 
 ### 2.3 Užduotis
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/3_diagram.png)
 
-Išvados:
+Išvados: UAB "TE TAŠKAS" turi daugiausia apdraustų daurbuotojų.
 
 
 ### 3. Užduotis
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/ShinyApplication.png)
